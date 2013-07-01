@@ -5,6 +5,8 @@ Components
 ----------
 
 1) Home Activity ( List of Feed Sites ) - pull from RSS feed to SQLite - DONE
+- uses YahooRSSActivity.java
+- 
 
 Owner: Jesus
 
